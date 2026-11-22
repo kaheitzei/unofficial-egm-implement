@@ -10,6 +10,8 @@ An unofficial Claude Code skill for implementing approved [Elephant-Goldfish Mod
 
 Copy a skill folder into `~/.claude/skills/` (user-wide) or `<project>/.claude/skills/` (one project), then start a new session:
 
+## Usage
+
 ```text
 /egm-implement docs/designs/<FEATURE>.md
 ```
