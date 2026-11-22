@@ -1,6 +1,6 @@
-# Skills
+# Unofficial EGM Implement
 
-Personal Claude Code skills.
+An unofficial Claude Code skill for implementing approved [Elephant-Goldfish Model (EGM)](https://github.com/google/elephant-goldfish-model) design docs. Not affiliated with the EGM project.
 
 | Skill | What it does |
 |---|---|
